@@ -1,0 +1,7 @@
+[
+    {"browserName": "Chrome", "os": "Windows", "osVersion": "10"},
+    {"browserName": "Firefox", "os": "Windows", "osVersion": "11"},
+    {"browserName": "Safari", "os": "OS X", "osVersion": "Ventura"},
+    {"browserName": "chrome", "deviceName": "Samsung Galaxy S23", "osVersion": "13.0"},
+    {"browserName": "safari", "deviceName": "iPhone 14", "osVersion": "16"}
+]
